@@ -41,7 +41,8 @@ To set up the Weather App locally, follow these steps:
 - A responsive design created with Material-UI.
 
 ## Screenshot
-![image](https://github.com/user-attachments/assets/ba27fca4-5167-40fe-a84b-dd29f7f1569b)
+![image](https://github.com/user-attachments/assets/b66b803e-61a2-4421-9b3f-4278ba5cbe56)
+
 
 
 
